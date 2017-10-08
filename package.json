@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week09ex03_js_strings",
+  "version": "1.0.0",
+  "description": "Strings in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w09e03-js-strings.git"
+  },
+  "keywords": [
+    "js",
+    "string"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w09e03-js-strings/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w09e03-js-strings#readme"
+}
